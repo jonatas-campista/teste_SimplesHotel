@@ -8,7 +8,7 @@
 
 - `Mesas`: Lista todas as mesas com o numero de clientes e o status da mesa ao clicar em uma das mesas ele e redirecionado para a pagina da mesa onde ele consegue ver os produtos,consegue mudar o numero de clientes na mesa e o status da mesa ao clicar em concluir ele volta para a tela de mesas
 - `Produtos`:Lista todos os produtos cadastrados ao clicar em alterar vai ser direcionado para uma tela onde consegue alterar o preço do produto
-- `Logout`: redireciona para a tela de login
+- `Logout`: redireciona para a tela de login encerrando a sessão
 
 -------------------------//----------------------------------------------//----------------------------------------------
 
