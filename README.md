@@ -17,6 +17,9 @@
 - `Logout`: redireciona para a tela de login
 
 
+
+#TECNOLOGIAS UTILIZADAS
+
 * Laravel
 * Bootstrap
 * Javascript
