@@ -10,7 +10,7 @@
 - `Produtos`:Lista todos os produtos cadastrados ao clicar em alterar vai ser direcionado para uma tela onde consegue alterar o preço do produto
 - `Logout`: redireciona para a tela de login
 
--------------------------------------------------------------//---------------------------------------------------//---------------------------------------------------
+-------------------------------------------------------------//----------------------------------------------//----------------------------------
 #EM CONSTRUÇÃO
 
 - `Login`: (:construction: sistema tera niveis de acesso :construction:)
@@ -20,9 +20,7 @@
 - `Movimentações`: (:construction: lista as movimentações de cada mesa :construction:)
 - `Caixa`: (:construction: lista todas os fechamento de conta referente as mesas :construction):
 
--------------------------------------------------------------//---------------------------------------------------//---------------------------------------------------
-
-
+-------------------------------------------------------------//----------------------------------------------//----------------------------------
 
 
 
